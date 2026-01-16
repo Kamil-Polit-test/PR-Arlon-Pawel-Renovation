@@ -3,7 +3,7 @@ import { useState } from "react";
 const FORMSPREE_FORM_ID = import.meta.env.VITE_FORMSPREE_FORM_ID;
 const FORMSPREE_ENDPOINT = `https://formspree.io/${FORMSPREE_FORM_ID}`;
 
-const CONTACT_EMAIL = "pr.arlon@example.com";
+const CONTACT_EMAIL = "pawelrenovation1@gmail.com";
 
 export default function Contact() {
   const [form, setForm] = useState({
