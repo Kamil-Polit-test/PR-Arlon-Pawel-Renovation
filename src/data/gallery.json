@@ -1,0 +1,9 @@
+[
+  { "id": 1, "src": "/images/1.jpg", "alt": "Chantier 1", "size": "1x2" },
+  { "id": 2, "src": "/images/2.jpg", "alt": "Chantier 2", "size": "1x1" },
+  { "id": 3, "src": "/images/3.jpg", "alt": "Chantier 3", "size": "1x1" },
+  { "id": 4, "src": "/images/4.jpg", "alt": "Chantier 4", "size": "1x1" },
+  { "id": 5, "src": "/images/5.jpg", "alt": "Chantier 5", "size": "1x1" },
+  { "id": 6, "src": "/images/6.jpg", "alt": "Chantier 6", "size": "2x2" },
+  { "id": 7, "src": "/images/7.jpg", "alt": "Chantier 7", "size": "1x2" }
+]
